@@ -1,0 +1,45 @@
+{
+	"_id": {
+		"$oid": "5d61a65ce15aebda619fcd47"
+	},
+	"Title": "The Lord of the Rings",
+	"Reviewer": "Tara Lapinski",
+	"Date": "May 7, 2013",
+	"Review": "This is one of my favorite books!  The amount of detail that went into the whole creation of Middle-Earth, and the trials and tribulations of the Fellowship as they try to reach Mordor is very compelling."
+}
+{
+	"_id": {
+		"$oid": "5d61a712e15aebda619fcd48"
+	},
+	"Title": "The Teeth of the Tiger",
+	"Reviewer": "Robert Carter",
+	"Date": "August 23, 2019",
+	"Review": "Great action book!  Tom Clancy has done it again making us feel every bullet and every wavering threat that we face everyday.  Really good book that I highly recommend to any military personel "
+}
+{
+	"_id": {
+		"$oid": "5d61a8c6e15aebda619fcd49"
+	},
+	"Title": "The Shining",
+	"Reviewer": "Delilah Strong",
+	"Date": "January 30, 1987",
+	"Review": "I fell in love with this book from the first page.  Stephen King has such a fantastic way of pulling you into a story and making you fearful to turn the next page.  A truly terrifying epic that will keep you guessing until the end."
+}
+{
+	"_id": {
+		"$oid": "5d61a9d8e15aebda619fcd4a"
+	},
+	"Title": "Abraham Lincoln Vampire Hunter",
+	"Reviewer": "Jessica Croft",
+	"Date": "July 25, 2018",
+	"Review": "While this story is about the life of Abraham Lincoln, it in no way is meant to be taken seriously.  There are a few things that are the same as what truly happened, like the Gettysburg Address, but by no means is it meant to be taken as fact.  All and all this book is a great read and you get a good picture of what he was like in his early years; with some liberties taken."
+}
+{
+	"_id": {
+		"$oid": "5d61aaefe15aebda619fcd4b"
+	},
+	"Title": "Vamphyri!",
+	"Reviewer": "Tony Stark",
+	"Date": "December 15, 2015",
+	"Review": "Even though this story is called Vamphyri, it is not about vampires but instead werewolves.  Once you get over that fact the book is actually a good read.  I read it on my latest vacation from Florida to Alaska.  It tells of the struggle between the vampires and the werewolves of Transylvania and how the vampires actually won."
+}

@@ -1,0 +1,127 @@
+{
+	"_id": {
+		"$oid": "5d61a1b5e15aebda619fcd42"
+	},
+	"Title": "The Lord of the Rings",
+	"Author": "J.R.R. Tolkien",
+	"Date": "July 29, 1954",
+	"Category": "Fantasy",
+	"Pages": "400",
+	"publisherInfo": {
+		"Publisher": "Andy \u0026 Unwin",
+		"City": "London"
+	}
+}
+{
+	"_id": {
+		"$oid": "5d61a29ee15aebda619fcd43"
+	},
+	"Title": "The Teeth of the Tiger",
+	"Author": "Tom Clancy",
+	"Date": "May 3, 2003",
+	"Category": "Action",
+	"Pages": "480",
+	"publisherInfo": {
+		"Publisher": "Berkley Books",
+		"City": "New York"
+	}
+}
+{
+	"_id": {
+		"$oid": "5d61a337e15aebda619fcd44"
+	},
+	"Title": "Abraham Lincoln Vampire Hunter",
+	"Author": "Seth Grahame-Smith",
+	"Date": "March 2, 2010",
+	"Category": "Horror",
+	"Pages": "433",
+	"publisherInfo": {
+		"Publisher": "Grand Central Publishing",
+		"City": "New York"
+	}
+}
+{
+	"_id": {
+		"$oid": "5d61a39fe15aebda619fcd45"
+	},
+	"Title": "The Shining",
+	"Author": "Stephen King",
+	"Date": "January 28, 1977",
+	"Category": "Horror",
+	"Pages": "683",
+	"publisherInfo": {
+		"Publisher": "Pocket Books",
+		"City": "New York"
+	}
+}
+{
+	"_id": {
+		"$oid": "5d61a423e15aebda619fcd46"
+	},
+	"Title": "Vamphyri!",
+	"Author": "Brian Lumley",
+	"Date": "1988",
+	"Category": "Horror",
+	"Pages": "470",
+	"publisherInfo": {
+		"Publisher": "Tom Doherty Associates",
+		"City": "Austin"
+	}
+}
+{
+	"_id": {
+		"$oid": "5d6979344cae0a40753ef9a6"
+	},
+	"Title": "Game of Thrones",
+	"Author": "George R.R. Martin"
+}
+{
+	"_id": {
+		"$oid": "5d72b33b40afb2f7049f41e5"
+	},
+	"Title": "The Lord of the Rings: The Fellowship of the Ring",
+	"Author": "J.R.R. Tolkien",
+	"Date": "July 29, 1954",
+	"Category": "Fantasy",
+	"Pages": "515"
+}
+{
+	"_id": {
+		"$oid": "5d72b36340afb2f7049f41e6"
+	},
+	"Title": "The Lord of the Rings: The Two Towers",
+	"Author": "J.R.R. Tolkien",
+	"Date": "July 29, 1954",
+	"Category": "Fantasy",
+	"Pages": "758"
+}
+{
+	"_id": {
+		"$oid": "5d72b38740afb2f7049f41e7"
+	},
+	"Title": "The Lord of the Rings: The Return of the King",
+	"Author": "J.R.R. Tolkien",
+	"Date": "July 29, 1954",
+	"Category": "Fantasy",
+	"Pages": "1189"
+}
+{
+	"_id": {
+		"$oid": "5d72b3f740afb2f7049f41e8"
+	},
+	"Title": "Game of Thrones: A Song of Ice and Fire",
+	"Author": "George R. R. Martin",
+	"Date": "August 15, 1998",
+	"Category": "Fantasy",
+	"Pages": "972"
+}
+{
+	"_id": {
+		"$oid": "5d72b4ac40afb2f7049f41e9"
+	},
+	"Title": "Pet Semetary",
+	"Author": "Stephen King",
+	"Date": "May 7, 1985",
+	"Category": "Horror",
+	"Pages": "827"
+}
